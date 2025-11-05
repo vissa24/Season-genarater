@@ -6,13 +6,13 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node Maher-Zubair.js"
+    "start": "node SAYU-OFC.js"
   },
-  "author": "Maher-Zubair",
+  "author": "SAYU-OFC",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
-    "maher-zubair-baileys": "^6.6.5",
+    "SAYU-OFC-baileys": "^6.6.5",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
@@ -23,3 +23,4 @@
     "path": "^0.12.7"
    }
 }
+
